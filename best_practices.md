@@ -1,5 +1,5 @@
-## Best Practices for Using GenAI
-### Assume Everything is Public
+# Best Practices for Using GenAI
+## Assume Everything is Public
 
 - **NEVER** put PHI into public generative AI tools
   - If you aren't sure if something is PHI, **err on the side of caution** and don't submit it
@@ -7,11 +7,11 @@
 - Companies can store your prompts to train their models (many have opt-out clauses)
 - **Assume everything you put into the system could be publicly available in perpetuity to other system users**
 - **ALWAYS** check your institution’s generative AI policies
-	- Columbia: https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy
-	- Cornell: https://its.weill.cornell.edu/news/cornell-guidelines-for-artificial-intelligence
+	- Columbia: [https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy](https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy)
+	- Cornell: [https://its.weill.cornell.edu/news/cornell-guidelines-for-artificial-intelligence](https://its.weill.cornell.edu/news/cornell-guidelines-for-artificial-intelligence)
 - Make sure if you use GenAI to write articles to check the journal’s policies
 
-### Know Your Model
+## Know Your Model
 You don't have to be a machine learning expert to be an educated consumer of GenAI tools. 
 
 Some good questions to ask yourself when using a model include:
