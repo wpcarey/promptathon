@@ -20,3 +20,12 @@ Some good questions to ask yourself when using a model include:
 - When was the training data last updated? 
 - Are your prompts/inputs being used to train the model?
 - Who has access to your results?
+
+## Table of Contents
+- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
+- **Best Practices**
+- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
+- Activities:
+	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
+	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
+	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
