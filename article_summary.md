@@ -23,7 +23,7 @@ Zero Shot Prompt:
 What did your output look like? Was it useful? How can we do this better? Try coming up with a prompt that might be more useful for you.
 
 ## Take Two
-Using some of the [principles here](https://wpcrp.github.io/promptathon/prompt_engineering.html), I tried to create a better prompt.
+Using some of the [principles here](prompt_engineering.html), I tried to create a better prompt.
 
 Few Shot Prompt:
 > You are an internal medicine resident leading a journal club on this article: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8218233/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8218233/). Provide an outline of a 30 minute journal club presentation and make sure to address the following questions: 1. Why was the study done? 2. What was the study design? (Use the PICO format) 3. How was the study performed? 4. What are the key findings? 5. What are the strengths and imitations of this study? What kinds of bias might be present in this study? 6. What conclusions can be made?
