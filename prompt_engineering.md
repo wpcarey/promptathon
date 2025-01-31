@@ -1,4 +1,4 @@
-# Building a Better Prompt
+# Prompt Engineering: Building a Better Prompt
 There is an entire field dedicated to creating better prompts, otherwise known as prompt engineering. LLMs (and other GenAIs) can't read your mind. Prompt engineering helps ensure the model provides you with useful ouputs. The more context you give to the GenAI when you provide a prompt, the better it will perform for you.
 
 ## Zero Shot Prompting
