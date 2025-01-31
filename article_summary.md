@@ -73,10 +73,10 @@ Some thoughts to take away from this exercise:
 - Did you notice different answers depending on which model you used?
 
 ## Table of Contents
-- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
-- [Best Practices](https://wpcrp.github.io/promptathon/best_practices.html)
-- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
-- Activities:
+- [Getting started](getting_started.html)
+- [Best Practices](best_practices.html)
+- [Prompt Engineering](prompt_engineering.html)
+- [Activities](activities.html):
 	- **Summarizing an Article**
-	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
-	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
+	- [Creating a Topic-Specific Overview](topic_overview.html)
+	- [Generating a Differential Diagnosis](differential_diagnosis.html)
