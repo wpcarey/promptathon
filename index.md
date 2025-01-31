@@ -1,6 +1,6 @@
 # W.P. Carey Residency Program Prompt-a-Thon
 
-Welcome! This page is meant to be a companion to the W.P. Carey Residency Program's Prompt-a-Thon held on January 30, 2025.
+Welcome! This page is meant to be a companion to the [W.P. Carey Residency Program](https://infonet.nyp.org/wpcarey/Pages/default.aspx)'s Prompt-a-Thon held on January 30, 2025.
 
 ## Guiding Principles at NYP
 AI use should be:
