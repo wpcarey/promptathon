@@ -26,16 +26,16 @@ This kind of prompt might work in more fine-tuned LLMs like OpenEvidence, but it
 ## Setting the Stage
 By giving a little more context in our prompt, we can make sure our output gives us what we need. It's also a great way to really think about what you are trying to know.
 
+A few shot prompt that you might start out with could be:
 > I am a first-year internal medicine resident. Please give me a 5-minute summary of the current recommendations for starting statins in patients over 21. Use tables and bullet points whenever possible. Please cite all references with links.
 
-Can we do a better job? Try coming up with a prompt that might be more useful for you. If you are verifying your outputs, you will probably need to do some back and forth.
+Can we do a better job? Try coming up with a prompt that might be more useful for you. If you are verifying your outputs, you will probably need to do some back and forth. If you want to see an example of this prompt playing out, you can read a transcript [here](https://chatgpt.com/share/678ff45b-fe50-800f-8ddc-fee05b4e8355). 
 
-A few shot prompt that you can start out with might be:
->I am a first-year internal medicine resident. Please give me a 5-minute summary of the current recommendations for starting statins in patients over 21. Use tables and bullet points whenever possible. Please cite all references with links.
+## Examining Your Results
 
-What kind of output do you get with this information? Were you surprised by anything? If you want to see an example of this kind of conversation playing out, you can read a transcript [here](https://chatgpt.com/share/678ff45b-fe50-800f-8ddc-fee05b4e8355) . 
+What kind of output did you get with the previous prompt? Were you surprised by anything? 
 
-If you read the transcript, you'll see that I:
+If you read the [transcript from my demo conversation in ChatGPT](https://chatgpt.com/share/678ff45b-fe50-800f-8ddc-fee05b4e8355), you'll see that I:
 - Got a table from the 2018 ACC/AHA guidelines (but there are more current guidelines from other sources)
 - Got a table of some useful information (not complete but a good reference)
 - Received citation for CDC page that did not work
@@ -47,7 +47,7 @@ In my case, I:
 - Asked ChatGPT why it gave me the resources it used
 - Asked it to provide links to different society guidelines so I could reference them later
 
-I independently looked up this information of course (always verify your output), but the gist of the output was pretty useful!
+I independently looked up this information of course (always verify your output), but the gist of the overview was pretty useful!
 
 ## Discussion
 
