@@ -59,10 +59,10 @@ I independently looked up this information of course (always verify your output)
 - What sources would you use to verify your output?
 
 ## Table of Contents
-- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
-- [Best Practices](https://wpcrp.github.io/promptathon/best_practices.html)
-- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
-- Activities:
-	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
+- [Getting started](getting_started.html)
+- [Best Practices](best_practices.html)
+- [Prompt Engineering](prompt_engineering.html)
+- [Activities](activities.html)
+	- [Summarizing an Article](article_summary.html)
 	- **Creating a Topic-Specific Overview**
-	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
+	- [Generating a Differential Diagnosis](differential_diagnosis.html)
