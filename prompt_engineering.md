@@ -42,3 +42,12 @@ A better prompt: "You are a tourist visiting NYC looking to have a memorable mea
 
 ## Notes
 For many models, the free versions will have a limit on the number of tokens you can use in a certain time or the types of analyses you can perform. Each tool will have its own constraints. Try to find out what limits you have so you know what you can expect from your interaction with the GenAI. In ChatGPT for example, when you hit your free limit, the model will switch from the most updated version (GPT 4o or 4o-mini) to an older model (ChatGPT 3.5).
+
+## Table of Contents
+- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
+- [Best Practices](https://wpcrp.github.io/promptathon/best_practices.html)
+- **Prompt Engineering**
+- Activities:
+	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
+	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
+	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
