@@ -25,7 +25,7 @@ Some good questions to ask yourself when using a model include:
 - [Getting started](getting_started.html)
 - **Best Practices**
 - [Prompt Engineering](prompt_engineering.html)
-- [Activities:](activities.html)
+- [Activities](activities.html)
 	- [Summarizing an Article](article_summary.html)
 	- [Creating a Topic-Specific Overview](topic_overview.html)
 	- [Generating a Differential Diagnosis](differential_diagnosis.html)
