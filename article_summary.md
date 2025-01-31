@@ -76,7 +76,7 @@ Some thoughts to take away from this exercise:
 - [Getting started](getting_started.html)
 - [Best Practices](best_practices.html)
 - [Prompt Engineering](prompt_engineering.html)
-- [Activities](activities.html):
+- [Activities](activities.html)
 	- **Summarizing an Article**
 	- [Creating a Topic-Specific Overview](topic_overview.html)
 	- [Generating a Differential Diagnosis](differential_diagnosis.html)
