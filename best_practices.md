@@ -22,10 +22,10 @@ Some good questions to ask yourself when using a model include:
 - Who has access to your results?
 
 ## Table of Contents
-- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
+- [Getting started](getting_started.html)
 - **Best Practices**
-- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
-- Activities:
-	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
-	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
-	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
+- [Prompt Engineering](prompt_engineering.html)
+- [Activities:](activities.html)
+	- [Summarizing an Article](article_summary.html)
+	- [Creating a Topic-Specific Overview](topic_overview.html)
+	- [Generating a Differential Diagnosis](differential_diagnosis.html)
