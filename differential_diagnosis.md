@@ -75,3 +75,12 @@ OpenEvidence is primarily trained on Elsevier's peer-reviewed publications, incl
 - How does adding more information to the prompt change your results?
 - Are you surprised by how easy it can be to disclose PHI unintentionally?
 - What are some other strategies you can come up with to balance specificity with privacy?
+
+## Table of Contents
+- [Getting started](https://wpcrp.github.io/promptathon/getting_started.html)
+- [Best Practices](https://wpcrp.github.io/promptathon/best_practices.html)
+- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
+- Activities:
+	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
+	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
+	- **Generating a Differential Diagnosis**
