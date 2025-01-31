@@ -22,3 +22,12 @@ For many models, the free versions will have a limit on the number of tokens you
 Columbia Knowledge Base Article "How to talk to AIs: Prompt Design 101": [https://etc.cuit.columbia.edu/news/ai-prompt-design](https://etc.cuit.columbia.edu/news/ai-prompt-design)
 
 OpenAI's Prompt Engineering Guide: [https://platform.openai.com/docs/guides/prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+
+## Table of Contents
+- **Getting started**
+- [Best Practices](https://wpcrp.github.io/promptathon/best_practices.html)
+- [Prompt Engineering](https://wpcrp.github.io/promptathon/prompt_engineering.html)
+- Activities:
+	- [Summarizing an Article](https://wpcrp.github.io/promptathon/article_summary.html)
+	- [Creating a Topic-Specific Overview](https://wpcrp.github.io/promptathon/topic_overview.html)
+	- [Generating a Differential Diagnosis](https://wpcrp.github.io/promptathon/differential_diagnosis.html)
